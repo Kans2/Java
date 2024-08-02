@@ -7,5 +7,8 @@ public class Construct{
 
         System.out.println(human1.name);
          System.out.println(human2.name);
+         System.out.println(human1.name +" " + human1.Gender);
+
+        human1.eat();
     }
 }

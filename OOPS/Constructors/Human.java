@@ -18,4 +18,10 @@ public class Human{
       }  //constructor
 
 
+
+    //Methods
+    void eat(){
+      System.out.println(this.name + " " + " " + " is eating");
+    }
+
 }
