@@ -6,4 +6,7 @@ bakeryList.add("shusi");
 
 ArrayList <ArrayList<String>> groceryList = new Arralist()
 
+//add one or more List within grocessory lists
 groceryList.add(bakeryList);
+
+System.out.println(groceryList.get(0).get(1));

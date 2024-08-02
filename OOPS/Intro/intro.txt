@@ -1,0 +1,34 @@
+
+Object = instance of class Attributes and Methods --> Actions
+
+ex: {phone,desk,computer,coffe cup}
+
+
+1)phone
+
+  String Company = "Redmi"
+  double Price = 100000
+  int Camera = 120
+  int Battery = 6000
+  String color = "white"
+  String Os = "Android"
+  boolean isStock = true
+
+Methods
+  Call()
+  Calc()
+  Audio()
+
+
+2)coffe cup
+
+  String color =   "white"
+  doule temp = 20.0
+  boolean empty = true;
+
+Methods
+  
+  Drink()
+  spill()
+
+
