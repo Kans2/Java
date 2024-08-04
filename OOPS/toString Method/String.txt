@@ -1,0 +1,4 @@
+toString()   = Spcial method that all object inherit,
+               that return string "textulay represent" an object
+               implicity & explicity
+               
