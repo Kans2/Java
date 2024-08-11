@@ -1,0 +1,2 @@
+Static = modifier , A single copy of a var/ Method shared
+        the class owns a Static member
