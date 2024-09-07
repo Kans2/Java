@@ -2,14 +2,10 @@ public class Hero extends Person {
 
     String power;
 
-     Hero(String name,String power,
-     Boolean heart,
-     String Special,
-     Boolean Death) {
-         
-       
-         super(name, heart, Special, Death);   //call the method in super class use super key word
-         this.power = power;
+    Hero(String name, Boolean heart,String Special,Boolean Death,String power){
+
+        super(name,heart,Special,Death);
+        this.power = power;
 
     }
 
