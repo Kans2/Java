@@ -1,0 +1,2 @@
+mulitiple class common ona vachi we use store in array 
+with one common datatype

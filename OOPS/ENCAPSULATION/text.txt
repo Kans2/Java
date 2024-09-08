@@ -1,0 +1,2 @@
+enacpsulation na ---- hidding attributes hide panitu 
+                  //getter and seeter method use panni run
