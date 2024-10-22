@@ -8,8 +8,11 @@ public class Main {
 
      try {
         FileWriter writter = new FileWriter("Message.txt");
+
         writter.write("Hardest choices\n Require Strongest wills");
+
         writter.append("\n(A quit by kans)");
+        
         writter.close();
          
      } catch (IOException e) {
