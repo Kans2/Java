@@ -7,8 +7,7 @@ public class Main {
     
 
      try {
-        FileWriter writter = new FileWriter("Message.txt");
-
+        FileWriter writter = new FileWriter("");
         writter.write("Hardest choices\n Require Strongest wills");
 
         writter.append("\n(A quit by kans)");
